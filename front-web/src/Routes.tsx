@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom'; /*componente im
 import Header from './components/Header';
 import Home from './pages/Home';
 import Records from './pages/Records';
+import Charts from './pages/Charts';
 
 const Routes = () => (
     <BrowserRouter>
@@ -13,6 +14,9 @@ const Routes = () => (
             </Route>
             <Route path="/records" /*para sermos direcionado para essa página ao clicarmos no botão da tela inicial*/>
                 <Records />
+            </Route>
+            <Route path="/charts">
+                <Charts />
             </Route>
         </Switch>
     </BrowserRouter>
