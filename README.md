@@ -5,7 +5,7 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, fro
 
 ### Stacks usadas
 - Java com Spring-boot
-- Typescript
+- TypeScript
 - JavaScript
 
 ### Banco de dados
