@@ -18,3 +18,5 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, fro
 - Visual Studio Code
 - pgAdmin
 
+### Minhas anotações
+- [Notion.so](https://www.notion.so/analudias/Semana-DevSuperior-872507829157424f9129f4c324dec2ad)
