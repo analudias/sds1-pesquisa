@@ -11,10 +11,10 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, fro
 ### Banco de dados
 - H2
 - Postgresql
-- pgAdmin
 
 ### Ferramentas usadas
 - Spring Tool Suite
 - Postman
 - Visual Studio Code
+- pgAdmin
 
