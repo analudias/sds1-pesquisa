@@ -17,6 +17,7 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, fro
 - Postman
 - Visual Studio Code
 - pgAdmin
+- Heroku
 
 ### Minhas anotações
 - [Notion.so](https://www.notion.so/analudias/Semana-DevSuperior-872507829157424f9129f4c324dec2ad)
