@@ -5,8 +5,8 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, fro
 
 ### Stacks usadas
 - Java com Spring-boot
-- Reactjs
-- React Native
+- Typescript
+- JavaScript
 
 ### Banco de dados
 - H2
