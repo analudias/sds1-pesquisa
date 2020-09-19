@@ -1,4 +1,4 @@
-# 1ª Semana DevSuperior
+# Semana DevSuperior - 1ª Edição
 
 ## Semana imersiva de desenvolvimento promovida pela DevSuperior!
 Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, front-end e mobile, com diversas tecnologias atuais de mercado.
