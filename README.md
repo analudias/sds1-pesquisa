@@ -3,6 +3,8 @@
 ## Semana imersiva de desenvolvimento promovida pela DevSuperior!
 Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, front-end e mobile, com diversas tecnologias atuais de mercado.
 
+Você pode acessar o site publicado através deste [link](https://sds1-ana.netlify.app/).
+
 ### Stacks usadas
 - Java com Spring-boot
 - TypeScript
