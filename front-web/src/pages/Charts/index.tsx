@@ -21,7 +21,7 @@ const initialPieData = {
     series: [] /**isto é feito para não quebrar o componente de gráfico */
 }
 
-const BASE_URL = 'http://localhost:8080'
+const BASE_URL = 'https://sds1-ana.herokuapp.com';
 
 const Charts = () => {
     const [barChartData, setBarChartData] = useState<BarChartData[]>([]); /** primeira varíavel - é a que vamos usar no componente / Segundo parâmetro - é a função que vamos usar para atualizar o valor da variável*/
