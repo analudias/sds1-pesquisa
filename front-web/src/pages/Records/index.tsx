@@ -10,13 +10,13 @@ const BASE_URL = 'https://sds1-ana.herokuapp.com';
 
 const Records = () => {
 
-    const [ recordsResponse, setRecordsResponse] = useState<RecordsReponse>();  {/** useState - criando estado interno para o componente */} {/**haverá no estado deste componente um payload com a estrura do records que vamos usar */}
+    const [ recordsResponse, setRecordsResponse] = useState<RecordsReponse>();  /** useState - criando estado interno para o componente */ /**haverá no estado deste componente um payload com a estrura do records que vamos usar */
     const [activePage, setActivePage] = useState(0);
 
     useEffect(() => {
         axios.get(`${BASE_URL}/records?linesPerPage=12&page=${activePage}`)
-        .then(response => setRecordsResponse(response.data));{/** este bloco de código é iniciado assim que o componente executar */}      
-    }, [activePage]);{/**sempre que for clicado em um item diferente, esse bloco será executado*/}
+        .then(response => setRecordsResponse(response.data));/** este bloco de código é iniciado assim que o componente executar */
+    }, [activePage]);/**sempre que for clicado em um item diferente, esse bloco será executado*/
 
     const handlePageChange = (index: number) => {
         setActivePage(index)
