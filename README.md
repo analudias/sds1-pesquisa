@@ -1,7 +1,7 @@
 # Semana DevSuperior - 1ª Edição
 
 ## Semana imersiva de desenvolvimento promovida pela DevSuperior!
-Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, front-end e mobile, com diversas tecnologias atuais de mercado.
+Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, front-end e mobile, com diversas tecnologias atuais de mercado. Ministrado pelos professores Nélio Alves e [Washington Soares](https://thewashington.dev/).
 
 Você pode acessar o site publicado através deste [link](https://sds1-ana.netlify.app/).
 
