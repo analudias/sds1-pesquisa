@@ -5,6 +5,8 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, fro
 
 Você pode acessar o site publicado através deste [link](https://sds1-ana.netlify.app/).
 
+Está disponível também no [Youtube](https://www.youtube.com/watch?v=X5mKqMuFWT4) como ficou o projeto final!
+
 ### Stacks usadas
 - Java com Spring-boot
 - TypeScript
