@@ -3,7 +3,8 @@
 ## Semana imersiva de desenvolvimento promovida pela DevSuperior!
 Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end, front-end e mobile, com diversas tecnologias atuais de mercado. Ministrado pelos professores Nélio Alves e [Washington Soares](https://thewashington.dev/).
 
-Você pode acessar o site publicado através deste [link](https://sds1-ana.netlify.app/). Está disponível também no [Youtube](https://www.youtube.com/watch?v=X5mKqMuFWT4) como ficou o projeto final!
+Está disponível também no [Youtube](https://www.youtube.com/watch?v=X5mKqMuFWT4) como ficou o projeto final!  
+Você pode acessar o site publicado através deste [link](https://sds1-ana.netlify.app/). 
 
 ### Stacks usadas
 - Java com Spring-boot
