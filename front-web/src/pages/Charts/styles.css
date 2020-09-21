@@ -38,7 +38,7 @@
   }
   
   .game-rating {
-    height: 20px;
+    height: 10px;
     width: 300px;
     background-color: var(--color-coral);
     border-radius: 10px;
