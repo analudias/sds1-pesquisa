@@ -11,6 +11,8 @@ Está disponível também no [Youtube](https://www.youtube.com/watch?v=X5mKqMuFW
 - Java com Spring-boot
 - TypeScript
 - JavaScript
+- ReactJS
+- React Native
 
 ### Banco de dados
 - H2
