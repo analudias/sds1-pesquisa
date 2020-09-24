@@ -7,7 +7,7 @@ Você pode acessar o site publicado através deste [link](https://sds1-ana.netli
 Está disponível também no [Youtube](https://www.youtube.com/watch?v=X5mKqMuFWT4) como ficou o projeto final!
 
 
-### Stacks usadas
+### Tecnologias usadas
 - Java com Spring-boot
 - TypeScript
 - JavaScript
