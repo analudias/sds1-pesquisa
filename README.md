@@ -8,6 +8,11 @@ Está disponível no [Youtube](https://www.youtube.com/watch?v=X5mKqMuFWT4) como
 ### Site publicado
 - [Netlify](https://sds1-ana.netlify.app/)
 
+### Layout WEB
+![HOME](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20inicial.png)
+![RECORDS](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Registros.png)
+![CHARTS](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Gr%C3%A1ficos.png)
+
 
 ### Tecnologias usadas
 - Java com Spring-boot
