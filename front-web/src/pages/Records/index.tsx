@@ -5,6 +5,8 @@ import { RecordsReponse } from './types';
 import { formatDate } from './helpers';
 import Pagination from './Pagination';
 import Filters from '../../components/Filters';
+import { DateRangePicker } from 'react-date-range';
+import { Calendar } from 'react-date-range';
 
 const BASE_URL = 'https://sds1-ana.herokuapp.com';
 
