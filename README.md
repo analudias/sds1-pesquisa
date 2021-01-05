@@ -16,9 +16,9 @@ ___
 
 ### Layout MOBILE
 ___
-![HOME-MOBILE](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20inicial%20-%20mobile.jpg) <br/>
-![FORM-MOBILE](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20de%20cadastro-%20mobile.jpg) <br/>
-![SAVE-MOBILE](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20de%20salvamento%20-%20mobile.jpg) <br/>
+![HOME-MOBILE](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20inicial%20-%20mobile.jpg)
+![FORM-MOBILE](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20de%20cadastro-%20mobile.jpg)
+![SAVE-MOBILE](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20de%20salvamento%20-%20mobile.jpg)
 
 
 ### Tecnologias usadas
