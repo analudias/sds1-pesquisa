@@ -10,9 +10,9 @@ Está disponível no [Youtube](https://www.youtube.com/watch?v=X5mKqMuFWT4) como
 
 ### Layout WEB
 ___
-![HOME](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20inicial.png)  <br/>
-![RECORDS](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Registros.png)  <br/>
-![CHARTS](https://github.com/analudias/sds1-pesquisa/blob/master/assets/Gr%C3%A1ficos.png)  <br/>
+<img src="https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20inicial.png" alt="home-mobile" width="900px" height="500px"/>
+<img src="https://github.com/analudias/sds1-pesquisa/blob/master/assets/Registros.png" alt="form-mobile" width="900px" height="500px"/>
+<img src="https://github.com/analudias/sds1-pesquisa/blob/master/assets/Gr%C3%A1ficos.png" alt="save-mobile" width="900px" height="500px"/>
 
 ### Layout MOBILE
 ___
