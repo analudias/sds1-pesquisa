@@ -16,7 +16,7 @@ ___
 
 ### Layout MOBILE
 ___
-<img src="https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20inicial%20-%20mobile.jpg" alt="home-mobile" width="300px" height="500px"/>
+<img src="https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20inicial%20-%20mobile.jpg" alt="home-mobile" width="300px" height="500px"/> |
 <img src="https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20de%20cadastro-%20mobile.jpg" alt="form-mobile" width="300px" height="500px"/>
 <img src="https://github.com/analudias/sds1-pesquisa/blob/master/assets/Tela%20de%20salvamento%20-%20mobile.jpg" alt="save-mobile" width="300px" height="500px"/>
 
